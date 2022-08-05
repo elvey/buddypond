@@ -12,7 +12,7 @@ Ideas for community apps:
   - Auto-coder with typing input
 
 - Trippy Visuals Apps
-  - https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+  X - https://paveldogreat.github.io/WebGL-Fluid-Simulation/
   - Fractals
   - Julia Zooms
   - Mandlebrot Zooms
@@ -43,7 +43,7 @@ Ideas for community apps:
   - user contributed wallpapers
   - custom canvas animations
   - set picture as wallpaper
-  - Nyan cat wallpaper
+  X- Nyan cat wallpaper
   X - http://sirxemic.github.io/jquery.ripples/
   - conrads game of life background
   - CSS animation - pond drip drops    -> https://codepen.io/Coderesting/pen/RwwLPZM
